@@ -41,6 +41,9 @@ Also the fact that sometimes the render inGame, lacks a bit.
 
 ## Download, Use, Troubleshoot 💡
 🔽 Downloads:
+
+It is best to Download the x64 Version, if you have trouble installing the x64 Version, try the x32 One.
+
 - Mediafire link [here](https://www.mediafire.com/folder/f1vsiwqk0tpiu/Pb2_Mod_Map)
 - Mega link [here](https://mega.nz/folder/8UJVgIqI#fgWw0lGwimLepTABi9om3w)
 - Github file link [here](https://github.com/xAloh-YTx/Pb2-ModMapV1-OnlinePatch/releases)
