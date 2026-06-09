@@ -2,8 +2,6 @@
 Payback² Mod APK. Creator: Ash3s_<br><br>
 You can watch the demo [here](https://www.google.com/).
 
-### Details
-
 ## Mod Features 👻
 
 - Adds 12 new maps and boat races to the game
